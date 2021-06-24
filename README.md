@@ -31,10 +31,20 @@
 * [Learn](https://learn.sourcegraph.com)
 * [Sourcegraph TV](https://www.youtube.com/c/sourcegraph)
 * [Global Code Search](https://sourcegraph.com/search)
+* [Medium](https://medium.com/@sourcegraph)
+* [Practical Real World Case Studies](https://about.sourcegraph.com/case-studies)
 
 ## Articles
  * [How To Add Open Source Software Projects to Sourcegraph](https://learn.sourcegraph.com/posts/how-to-add-open-source-software-projects-to-sourcegraph)
  * [How To Search with Sourcegraph using Literal Patterns](https://learn.sourcegraph.com/posts/literal-search-patterns)
+ * [Discover, Search, Understand Source code using Sourcegraph](https://www.melvinvivas.com/understanding-code-using-sourcegraph/)
+ * [How to install Sourcegraph with Docker](https://www.techrepublic.com/article/how-to-install-sourcegraph-with-docker/)
+ * [Why code search is still needed for monorepos](https://docs.sourcegraph.com/adopt/code_search_in_monorepos)
+ * [Code search turned Code Checker](https://about.sourcegraph.com/blog/code-search-turned-code-checker/)
+ * [Search across multiple revisions of the same repository](https://about.sourcegraph.com/blog/search-multiple-revisions/)
+ * [Universal Code Intelligence for GitHub with the Sourcegraph browser extension](https://about.sourcegraph.com/blog/universal-code-intelligence-github-sourcegraph-browser-extension/)
+ * [Going beyond regular expressions with structural code search](https://about.sourcegraph.com/blog/going-beyond-regular-expressions-with-structural-code-search/)
+ * [How Sourcegraph helped ensure production stability at Lyft during their monolith to microservices decomposition](https://about.sourcegraph.com/case-studies/lyft-monolith-to-microservices)
 
 ## Extensions
 * [Codecov](https://sourcegraph.com/extensions/sourcegraph/codecov) - A Sourcegraph extension for showing code coverage information from Codecov on GitHub, Sourcegraph, and other tools.
