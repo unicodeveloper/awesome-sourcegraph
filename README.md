@@ -10,9 +10,7 @@
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs).*
 
-## Contents
-- [Awesome Sourcegraph ![Awesome](https://github.com/sindresorhus/awesome)
-  - [Contents](#contents)
+## Table of Contents
   - [Community](#community)
   - [Essentials](#essentials)
   - [Articles](#articles)
