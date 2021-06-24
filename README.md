@@ -11,7 +11,7 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs).*
 
 ## Contents
-- [Awesome Sourcegraph ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)](#awesome-nextjs-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome-img-srchttpsimgshieldsiobadgeunicodeveloper-approved-brightgreensvg-alt)
+- [Awesome Sourcegraph ![Awesome](https://github.com/sindresorhus/awesome)
   - [Contents](#contents)
   - [Community](#community)
   - [Essentials](#essentials)
